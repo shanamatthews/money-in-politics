@@ -10,6 +10,7 @@ yolk3k = "*"
 jupyterlab = "*"
 pandas = "*"
 jupyter = "*"
+altair = "*"
 
 [requires]
 python_version = "3.8"
